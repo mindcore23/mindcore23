@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mindcore23
+- 👋 Hi, I’m Brock!
 - 👀 I’m interested in Zendesk Development
 - 🌱 I’m currently learning Python, Java Script, Java, API, JSON, AWS
 - 💞️ I’m looking to collaborate on Zendesk related projects
